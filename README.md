@@ -156,8 +156,7 @@ Make sure your other resources start after ZX_Core.
 
 Example:
 
-ensure ZX_Core
-ensure ZX-GarbageJob
+1. ensure ZX_Core
 
 ### 🔌 Exports
 
