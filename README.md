@@ -163,16 +163,16 @@ ensure ZX-GarbageJob
 
 ZX_Core currently provides the following exports:
 
-AddBlip
-RemoveBlip
+- AddBlip
+- RemoveBlip
 
-AddMarker
-RemoveMarker
-UpdateMarker
+- AddMarker
+- RemoveMarker
+- UpdateMarker
 
-ShowNotify
+- ShowNotify
 
-GiveItem
+- GiveItem
 
 These exports allow other resources to use ZX_Core functionality without duplicating the same systems.
 
